@@ -1,0 +1,5 @@
+{
+  "metrik": "Akurasi 38.89% (masih rendah). Macro F1 31.48%, Precision 34.92%, dan Recall 35.04%. Kelas paling mudah dikenali: Fish (F1 0.50); kelas paling sulit: Crustaceans (F1 0.00).",
+  "confusion_matrix": "Diagonal utama menunjukkan prediksi benar. Kesalahan terbanyak: 'Fish' diprediksi sebagai 'Other marine organisms' (4 gambar), kemungkinan karena kemiripan visual. Kelas dengan recall terendah adalah 'Crustaceans' (0.00).",
+  "prediksi": "Dari 12 gambar uji, 6 diprediksi benar (judul hijau) dan 6 salah (merah). Persentase di judul adalah confidence model; prediksi salah dengan confidence tinggi menandakan kelas yang sangat mirip secara visual."
+}

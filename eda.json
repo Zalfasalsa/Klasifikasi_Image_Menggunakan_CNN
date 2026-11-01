@@ -1,0 +1,28 @@
+{
+    "total_gambar_berlabel": 120,
+    "jumlah_kelas": 8,
+    "distribusi_kelas": {
+        "Fish": 55,
+        "Coral": 2,
+        "Shark": 3,
+        "Octopuses": 5,
+        "Crustaceans": 12,
+        "Seaweed": 2,
+        "Sponges": 1,
+        "Other marine organisms": 40
+    },
+    "ukuran_input": [
+        160,
+        160
+    ],
+    "kelas": [
+        "Fish",
+        "Coral",
+        "Shark",
+        "Octopuses",
+        "Crustaceans",
+        "Seaweed",
+        "Sponges",
+        "Other marine organisms"
+    ]
+}
